@@ -10,7 +10,7 @@ namespace ConsoleApp36
     {
         static void Main(string[] args)
         {
-            //Aldo Ruiz
+           
             while (true)
             {
                 
